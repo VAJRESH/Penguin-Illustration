@@ -1,4 +1,4 @@
-<h1>Penguin Art Illustration</h1>
+#Penguin Art Illustration
 <h2>AIM</h2>
 <ul>
     <li><h3>Practice CSS Project</h3></li>
